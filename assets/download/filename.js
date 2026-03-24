@@ -1,3 +1,3 @@
 (function() {
-    window.pageURL = 'https://google.com';
+    window.pageURL = 'https://ghfjkhasdf.squarespace.com/';
 })();
